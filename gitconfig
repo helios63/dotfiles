@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = maxime.mondet@gmail.com
+	name = Maxime Mondet
